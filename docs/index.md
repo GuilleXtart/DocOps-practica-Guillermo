@@ -10,7 +10,7 @@ automáticamente.
 | puerto | 8080 |
 | modo | produccion |
 ## Imagen (opcional)
-Si quieres, sube una imagen (por ejemplo `docs/logo.png`) y enlázala:
+Si quieres, sube una image y enlázala:
 ![Logo](logo.png)
 ## Notas
 - Markdown se centra en el significado (títulos, listas, código)
