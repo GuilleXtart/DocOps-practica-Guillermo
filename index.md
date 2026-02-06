@@ -12,7 +12,3 @@ automáticamente.
 ## Imagen (opcional)
 Si quieres, sube una imagen (por ejemplo `docs/logo.png`) y enlázala:
 ![Logo](logo.png)
-## Notas
-- Markdown se centra en el significado (títulos, listas, código)
-- Git guarda el historial de cambios
-- Pages publica la documentación automáticamente
